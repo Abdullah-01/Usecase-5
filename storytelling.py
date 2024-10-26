@@ -5,7 +5,7 @@ from PIL import Image
 
 st.title("A Fresh Look at Job Opportunities in Saudi Arabia")
 st.markdown('#')
-st.markdown("Saudi Arabia's job market offers unique insights that can help fresh graduates better understand where to focus their career search. My analysis explores where jobs are located, what employers are looking for in terms of experience and gender, and what fresh graduates can expect in terms of salary.")
+st.markdown("Saudi Arabia's job market offers unique insights that can help fresh graduates better understand where to focus their career search. fresh graduates need to know where jobs are located, what employers are looking for in terms of experience and gender, and what expect in terms of salary.")
 image = Image.open('44777317.jpg')
 st.image(image, width=600)
 st.markdown('#')
